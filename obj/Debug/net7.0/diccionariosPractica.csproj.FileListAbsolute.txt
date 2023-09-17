@@ -1,0 +1,14 @@
+C:\Users\sebas\Documents\Programacion\Campus\Csharp\diccionariosPractica\bin\Debug\net7.0\diccionariosPractica.exe
+C:\Users\sebas\Documents\Programacion\Campus\Csharp\diccionariosPractica\bin\Debug\net7.0\diccionariosPractica.deps.json
+C:\Users\sebas\Documents\Programacion\Campus\Csharp\diccionariosPractica\bin\Debug\net7.0\diccionariosPractica.runtimeconfig.json
+C:\Users\sebas\Documents\Programacion\Campus\Csharp\diccionariosPractica\bin\Debug\net7.0\diccionariosPractica.dll
+C:\Users\sebas\Documents\Programacion\Campus\Csharp\diccionariosPractica\bin\Debug\net7.0\diccionariosPractica.pdb
+C:\Users\sebas\Documents\Programacion\Campus\Csharp\diccionariosPractica\obj\Debug\net7.0\diccionariosPractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\Programacion\Campus\Csharp\diccionariosPractica\obj\Debug\net7.0\diccionariosPractica.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\Programacion\Campus\Csharp\diccionariosPractica\obj\Debug\net7.0\diccionariosPractica.AssemblyInfo.cs
+C:\Users\sebas\Documents\Programacion\Campus\Csharp\diccionariosPractica\obj\Debug\net7.0\diccionariosPractica.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\Programacion\Campus\Csharp\diccionariosPractica\obj\Debug\net7.0\diccionariosPractica.dll
+C:\Users\sebas\Documents\Programacion\Campus\Csharp\diccionariosPractica\obj\Debug\net7.0\refint\diccionariosPractica.dll
+C:\Users\sebas\Documents\Programacion\Campus\Csharp\diccionariosPractica\obj\Debug\net7.0\diccionariosPractica.pdb
+C:\Users\sebas\Documents\Programacion\Campus\Csharp\diccionariosPractica\obj\Debug\net7.0\diccionariosPractica.genruntimeconfig.cache
+C:\Users\sebas\Documents\Programacion\Campus\Csharp\diccionariosPractica\obj\Debug\net7.0\ref\diccionariosPractica.dll
